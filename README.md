@@ -1,16 +1,23 @@
-# project
+Wallpaper App with Pexels REST API.
 
-A new Flutter project.
+User can see photos, which are fetched directly from Pexels through their rest api.
 
-## Getting Started
+User can view the photo full size and choose to set the image as wallpaper.
 
-This project is a starting point for a Flutter application.
+Each Time 80 images are showed and by clicking load more button, more 80 image will appear to the screen.
 
-A few resources to get you started if this is your first Flutter project:
+Software Used: Android Studio.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Language: Dart.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Framework: Flutter.
+
+Backend: https://www.pexels.com/api/documentation/#  - REST API
+
+![image](https://user-images.githubusercontent.com/49785991/124103333-07cdde00-da16-11eb-8964-26af381c8b38.png)
+
+![image](https://user-images.githubusercontent.com/49785991/124103359-0e5c5580-da16-11eb-924b-767e2d08411f.png)
+
+![image](https://user-images.githubusercontent.com/49785991/124103373-12887300-da16-11eb-8072-a1c7dd2d65d7.png)
+
+
